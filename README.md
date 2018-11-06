@@ -19,6 +19,9 @@ RUNNING THE CODE
 IMPORTANT: You need H2Ooutfiles and H2Soutfiles of the Gaussian output to run this code. AND in Functions.py you need to change the directory of the folders that contain YOUR files in order for the program to import data form the correct files.
 ">>>" Requires user input.
 
+REFERENCE:
+https://stackoverflow.com/questions/40425840/least-squares-fit-in-python-for-3d-surface (Optimisation Function, Functions.py from line 69)
+
 EXAMPLE CODE RUN (Visual Studio Code)
 (Please view "Raw"/"Blame": for better presentation of example code)
 
